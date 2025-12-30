@@ -1,7 +1,9 @@
-# 💫 About Me:
-Aspiring Web Developer<br>Trying to build solutions that LLMs can't<br>Bit interested in AI/ML<br>Like Problem Solving
+## Hi there 👋
 
+<!--
+**bharatnadar64/bharatnadar64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<<<<<<< HEAD
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +28,16 @@ Aspiring Web Developer<br>Trying to build solutions that LLMs can't<br>Bit inter
 [![](https://visitcount.itsvg.in/api?id=bharatnadar64&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+=======
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> parent of 665a097 (Update README.md)

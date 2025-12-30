@@ -4,6 +4,7 @@
 **bharatnadar64/bharatnadar64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +29,11 @@
 [![](https://visitcount.itsvg.in/api?id=bharatnadar64&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-=======
-Here are some ideas to get you started:
+
+# =======
+
+> > > > > > > parent of 665a097 (Update README.md)
+> > > > > > > Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -39,5 +43,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
->>>>>>> parent of 665a097 (Update README.md)
+  -->
+  <<<<<<< HEAD
+  > > > > > > > =======
